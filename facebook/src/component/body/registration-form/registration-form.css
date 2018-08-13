@@ -1,0 +1,102 @@
+.reg{
+    float:left;
+    width:44%;
+    height: 437px;
+}
+
+.reg h1{
+    font-size:36px;
+    margin-left: 7px;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.reg p{
+    margin-top:8px;
+    margin-left:7px;
+    margin-bottom: 5px
+}
+
+.reg input{
+    float:left;
+    border-radius:3px;
+    border:1px solid #c4d6f2;
+}
+.reg h3{
+    width:100%;
+    float: left;
+    margin-bottom:5px
+}
+.reg .days{
+    float: left;
+    height:25px;
+}
+.reg a{
+    float: left;
+    color:#3b5998;
+    font-size:11px;
+    width:150px;
+    margin:0px 0px 0px 5px;
+}
+
+.reg .male{
+    float: left;
+    margin:5px 15px 5px 0px
+}
+.reg .gender{
+    width: 100px;
+    float: left;
+    margin: 5px 100px 5px 0px;
+}
+
+.bday{
+    float:left;
+    width:100%;
+    height: 85px;
+}
+.terms{
+    float:left;
+    width: 295px;
+    height:60px;
+    font-size:12px;
+    color:#8a8a8c; 
+}
+#terms1{
+    margin-left: 0px;
+}
+
+.spn{
+    color:#3b5998;
+    
+}
+.signUp{
+    float:left;
+    width:100%;
+    height:30px;
+}
+
+.signUp input{
+    width:190px;
+    height:33px;
+    background-color:forestgreen;
+    color:white;
+    border-radius:5px;
+}
+
+.createPage{
+    float:left;
+    size:17px;
+    font-weight:bold;
+    color:#666666;
+    width:300px;
+}
+.createPage span{
+    color:#3b5998;
+}
+.createPage p{
+    margin-left: 0px;
+}
+.days{
+    color:#666666
+}
+

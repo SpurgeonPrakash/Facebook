@@ -1,0 +1,13 @@
+.root1{
+    width: 1335px;
+    height:520px;
+    margin-left: 48px;
+}
+
+body{
+    background-color: #e7ebf2 ;
+}
+
+input[placeholder="Email"]{
+    width:350px;
+}

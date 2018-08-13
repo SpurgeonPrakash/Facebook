@@ -1,0 +1,24 @@
+.root2{
+    width: 1335px;
+    height: 140px;
+    margin-left: 48px;
+    color:#3b78bc;
+}
+.root{
+    background-color: white;
+
+}
+.root2 p{
+   font-size:13px;
+}
+
+table{
+    border-spacing: 10px;
+    text-align: left;
+}
+.copy{
+    color:#8a8a8c; 
+    font-size:11px;
+     
+    
+}
